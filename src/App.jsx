@@ -1,4 +1,4 @@
-import "./Styles.scss";
+import "./styles.css";
 import { useState, useRef, useEffect } from "react";
 import { FaClipboard } from "react-icons/fa";
 import { toast } from "react-toastify";
